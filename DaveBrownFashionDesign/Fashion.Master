@@ -1,0 +1,138 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Fashion.master.cs" Inherits="DaveBrownPhotography.Fashion.DaveBrownPhotoMaster" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head id="Head1" runat="server">
+    <title runat="server" id="title">Denver Photographer | Engagement | Wedding | Portrait | Commercial | Senior </title>
+    <meta name="keywords" runat="server" id="metaKeywords" content="denver photographer, denver engagement photographer, denver portrait photographer, engagement, senior, commercial, colorado, family"/>
+    <meta name="description" runat="server" id="metaDescription" content="Denver Photographer Sly Octopus Photography is a Portrait Photographer who specializes in Engagement, Senior Portraits, Commercial Photography." />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!-- Facebook Open Graph -->
+	<!-- <meta property="og:image" content=""> -->
+    <meta property="og:site_name" content="Sly Octopus Photography">
+    <meta property="og:description" content="Denver Portrait Photographer Sly Octopus">
+	<meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.davebrownphotography.com/">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+		<!-- Stylesheets: Production -->
+
+		<link rel="stylesheet" href="../stylesheets/styles.css?42">
+		<!-- Skin Stylesheet -->
+		<link rel="stylesheet" href="../skin/skin.css?42">
+		<style>
+  
+		  /* Custom Icons */  
+		.links {
+        width: 260px;
+        height: 22px;
+        margin: 0 0 15px 0;
+        }
+
+        .links li { clear: none !important; }
+        .links a {
+        display: block;
+        text-indent: -5000px;
+        overflow: hidden;
+        width: 22px;
+        height: 22px;
+        margin: 0 -2px;
+        }
+
+        .links a[href*=twitter] { background: url('../skin/images/twitter.png'); }
+        .links a[href*=facebook] { background: url('../skin/images/facebook.png'); }
+		</style>
+		
+	<!-- Internet Exploder -->
+	<!--[if lt IE 7]><script type="text/javascript">window.location="http://usestandards.com/upgrade?url="+document.location.href;</script><![endif]-->	
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<!--[if IE 7]><link href="../stylesheets/ie7.css" media="screen" rel="stylesheet" /><![endif]-->
+	<!--[if IE]><meta http-equiv="imagetoolbar" content="no"><![endif]-->
+    <script>
+
+        var session_id = "lr38tfq32p8tandh01rkle0cr2";
+        var page = "index";
+        var section = "";
+        var tag = "index";
+        var overlayWidth = 1000;
+    </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?62"></script>
+    <script src="../javascripts/scripts.js?64"></script>
+</head>
+<body id="pageindex2" class="left" runat="server">
+    <div id="layout">
+	    <header>
+            <h1>
+                
+                <a itemscope itemtype="http://schema.org/LocalBusiness" href="/">
+                    <span itemprop="name">Sly Octopus Photography</span>
+                </a>
+                <div id="location">
+                    <span id="_address3" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <span itemprop="addressLocality">Denver</span> . <span itemprop="addressLocality">SF</span> . <span itemprop="addressLocality">Los Angeles</span> 
+                    </span>
+                </div>
+		    </h1>
+		    <nav>
+			    <ul>
+                    <li><a href="Denver-Engagement-Photographer.aspx" title="Denver Engagement Photographer">Engagement</a></li>
+                    <li><a href="Denver-Wedding-Photographer.aspx" title="Denver Wedding Photographer">Wedding</a></li>
+                    <li><a href="Denver-Corprate-Headshot-Photographer.aspx" title="Denver Corprate Headshot Photographer">Corprate Headshots</a></li>
+                    <li><a href="Denver-Senior-Portrait-Photographer.aspx" title="Denver Senior Portrait Photographer">Senior Portrait</a></li>
+                    <li><a href="Denver-Band-Music-Photographer.aspx" title="Denver Band Musician Photographer">Band</a></li>
+				    <li><a href="Denver-Food-Photographer.aspx" title="Denver Food Photographer">Food</a></li>
+				    <li>&nbsp;</li>
+				    <li><a href="blog/index.php" title="Denver Photographer Blog">Blog</a></li>
+				    <li><a href="Contact.aspx" title="Contact Denver Photographer">Contact</a></li>
+				    <li><a href="About-Denver-Photographer.aspx" title="About Denver Photographer Sly Octopus Photography">About</a></li>
+			    </ul>
+		    </nav>
+	    </header>
+        <div id="scrollBarHelper" runat="server" style="position:fixed; top:auto; bottom:10px; left:20px;">Use the scrollbar here --></div>
+    	<div id="content">
+            <asp:ContentPlaceHolder ID="cphMain" runat="server" />
+    	</div>
+    <footer>
+		<ul class="links">
+			<li><a href="http://www.facebook.com/slyoctopusphotography" target="_blank" rel="external nofollow">facebook</a></li>
+			<li><a href="http://www.twitter.com/slyoctophotog" target="_blank" rel="external nofollow">twitter</a></li>
+	    </ul>
+         <p itemscope itemtype="http://schema.org/LocalBusiness" class="copyright">
+            phone. <span itemprop="telephone">303.949.68<span style="display:none; visibility:hidden;">x</span>89</span> 
+                        <br/>
+                        <br/>
+            email. <span itemprop="email" >info@slyoctopus<span style="display:none; visibility:hidden;">x</span>photography.com</span>
+                        <br/>
+                        <br/>
+            studio. <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <span itemprop="streetAddress">3501 Wazee Street</span> 
+                        <span itemprop="addressLocality">Denver</span>, 
+                        <span itemprop="addressRegion">CO</span> 
+                        <span itemprop="postalCode">80216</span>
+                    </span>
+             <br />
+             <br />
+             &copy; 2014 <span itemprop="name">Sly Octopus Photography</span><br />
+        All Rights Reserved.</p>
+    </footer>
+</div>
+<!-- Javascripts -->
+<script>
+/* Custom Scripts  */
+    //rsn.uniformHeight(530);
+    $(document).ready(function () { rsn.resizeLayout(); });
+</script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-50012604-1', 'slyoctopusphotography.com');
+    ga('send', 'pageview');
+
+</script>
+</body>
+</html>

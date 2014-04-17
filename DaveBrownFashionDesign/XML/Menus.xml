@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menus>
+  <MenuItem>
+    <DisplayText>ROOT</DisplayText>
+    <Url></Url>
+    <Target></Target>
+    <MenuID>0</MenuID>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Home</DisplayText>
+    <Url>~/Home.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>1</MenuID>
+    <ParentMenuID>0</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Photographer Home, Denver Portrait Photographer Home</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Portfolio</DisplayText>
+    <Url></Url>
+    <IsSwingItem>True</IsSwingItem>
+    <Target>_self</Target>
+    <MenuID>2</MenuID>
+    <ParentMenuID>0</ParentMenuID>
+    <Title>Denver Portrait Photographer</Title>
+  </MenuItem>
+    <MenuItem>
+      <DisplayText>Engagement Photography</DisplayText>
+      <Url>~/Denver-Engagement-Photographer.aspx</Url>
+      <Target>_self</Target>
+      <MenuID>7</MenuID>
+      <ParentMenuID>2</ParentMenuID>
+      <IsSwingItem>False</IsSwingItem>
+      <Title>Denver Engagement Photographer</Title>
+    </MenuItem>
+    <MenuItem>
+      <DisplayText>Fashion Photography</DisplayText>
+      <Url>~/Denver-Fashion-Photographer.aspx</Url>
+      <Target>_self</Target>
+      <MenuID>8</MenuID>
+      <ParentMenuID>2</ParentMenuID>
+      <IsSwingItem>False</IsSwingItem>
+      <Title>Denver Fashion Photographer</Title>
+    </MenuItem>
+  <MenuItem>
+    <DisplayText>Portrait Photography</DisplayText>
+    <Url>~/Denver-Portrait-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>9</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Portrait Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Wedding Photography</DisplayText>
+    <Url>~/Denver-Wedding-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>53</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Wedding Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Senior Portraits</DisplayText>
+    <Url>~/Denver-Senior-Portrait-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>50</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Senior Portrait Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Pet Portraits</DisplayText>
+    <Url>~/Denver-Pet-Portrait-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>52</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Pet Portrait Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Food Photography</DisplayText>
+    <Url>~/Denver-Food-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>60</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Food Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Commercial Photography</DisplayText>
+    <Url>~/Denver-Commercial-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>51</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Commercial Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Places</DisplayText>
+    <Url>~/Denver-Landscape-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>10</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Landscape Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Still Life Photography</DisplayText>
+    <Url>~/Denver-Still-Life-Photographer.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>11</MenuID>
+    <ParentMenuID>2</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Still Life Photographer</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Blog</DisplayText>
+    <Url>~/BlogInstall/index.php</Url>
+    <Target>_self</Target>
+    <MenuID>3</MenuID>
+    <ParentMenuID>0</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Photographer Sly Octopus Photographys Blog</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Services</DisplayText>
+    <Url>~/Services.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>4</MenuID>
+    <ParentMenuID>0</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Denver Photographer Services</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>About</DisplayText>
+    <Url>~/About.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>5</MenuID>
+    <ParentMenuID>0</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>About Denver Photographer Sly Octopus Photography</Title>
+  </MenuItem>
+  <MenuItem>
+    <DisplayText>Contact</DisplayText>
+    <Url>~/Contact.aspx</Url>
+    <Target>_self</Target>
+    <MenuID>6</MenuID>
+    <ParentMenuID>0</ParentMenuID>
+    <IsSwingItem>False</IsSwingItem>
+    <Title>Contact Denver Portrait Photographer</Title>
+  </MenuItem>
+</Menus>

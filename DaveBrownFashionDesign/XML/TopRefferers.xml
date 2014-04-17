@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Urls>
+  <Url>
+    <Name>Google</Name>
+    <Value>www.google</Value>
+    <RequiresKeywordCheck>true</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>Google Images</Name>
+    <Value>www.images.google.com</Value>
+    <RequiresKeywordCheck>true</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>Yahoo Search</Name>
+    <Value>search.yahoo</Value>
+    <RequiresKeywordCheck>true</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>Pshero</Name>
+    <Value>pshero</Value>
+    <RequiresKeywordCheck>false</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>bing</Name>
+    <Value>www.bing</Value>
+    <RequiresKeywordCheck>true</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>flickr</Name>
+    <Value>www.flickr</Value>
+    <RequiresKeywordCheck>false</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>blackstar rising</Name>
+    <Value>rising.blackstar.com</Value>
+    <RequiresKeywordCheck>false</RequiresKeywordCheck>
+  </Url>
+  <Url>
+    <Name>Modeling Advice</Name>
+    <Value>modelingadvice.com</Value>
+    <RequiresKeywordCheck>false</RequiresKeywordCheck>
+  </Url>
+</Urls>

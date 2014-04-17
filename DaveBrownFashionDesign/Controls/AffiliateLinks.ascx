@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="AffiliateLinks.ascx.cs" Inherits="DaveBrownPhotography.Controls.AffiliateLinks" %>
+Help me support this website:&nbsp;&nbsp;<span style="text-align:center" runat="server" id="divLinks" />

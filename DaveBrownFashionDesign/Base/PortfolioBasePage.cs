@@ -26,7 +26,7 @@ namespace DaveBrownPhotography
 
         protected virtual void Page_Load(object sender, EventArgs e)
         {
-            DirectoryInfo di = new DirectoryInfo(Server.MapPath(String.Format("~/Images/{0}", ImageDirectory)));
+            DirectoryInfo di = new DirectoryInfo(Server.MapPath(String.Format("~/Photographer/{0}", ImageDirectory)));
 
             FileInfo[] rgFiles = di.GetFiles("*.jpg");
             List<FileInfo> files = rgFiles.ToList<FileInfo>();
@@ -41,7 +41,7 @@ namespace DaveBrownPhotography
                 HtmlGenericControl listItem = new HtmlGenericControl("li");
                 listItem.Style.Add("max-width", "none");
 
-                Image image = new Image() { ImageUrl = String.Format("~/Images/{0}/{1}", ImageDirectory, fi.Name) };
+                Image image = new Image() { ImageUrl = String.Format("~/Photographer/{0}/{1}", ImageDirectory, fi.Name) };
 
                 image.Style.Add("margin", "70px 10px 20px 0px");
                 image.ID = "image-" + i.ToString();

@@ -5,19 +5,6 @@
 var slideShowSpeed = 3000;
 // Duration of crossfade (seconds)
 var crossFadeDuration = 3;
-// Specify the image files
-/*This section was commented out because we are doing this dynamically 
-in code behind to cycle all the images in the home directory.
-//var Pic = new Array();
-//// to add more images, just continue
-//// the pattern, adding to the array below
-
-//Pic[0] = '/Images/ShotsForHomePage/AdrienneSkullSweater.jpg'
-//Pic[1] = '/Images/ShotsForHomePage/AshleyRedlineEye.jpg'
-//Pic[2] = '/Images/ShotsForHomePage/AshleyRedLineHandsUp.jpg'
-//Pic[3] = '/Images/ShotsForHomePage/Rockabilly3.jpg'
-
-*/
 
 // do not edit anything below this line
 var t;

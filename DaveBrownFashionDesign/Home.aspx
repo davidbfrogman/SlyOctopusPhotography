@@ -2,7 +2,7 @@
 <%@ Register Src="~/Controls/LatestBlogPosts.ascx" TagName="LatestBlogPosts" TagPrefix="dbp" %>
 <asp:Content runat="server" ContentPlaceHolderID="cphMain">
     <div id="billboard" class="loading">
-        <img src="/Images/FullHomeLayout/DSC_5844-Edit.jpg" alt="Denver Photographer" style="left:250px;" >
+        <img src="/Photographer/FullHomeLayout/DSC_5844-Edit.jpg" alt="Denver Photographer" style="left:250px;" >
     </div>
     <div style="position:absolute; top:1500px; left:0px;"><dbp:LatestBlogPosts runat="server" ID="latestBlogs"/>
     <p>

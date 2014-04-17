@@ -34,7 +34,26 @@
 </asp:Repeater>
 
 <br />
-</div>--%>
+</div>--%>
+
 <div class="RPTmenu">
-<ul id="coolMenu">   <li><a href="Home.aspx" title="Home">HOME</a></li>   <li>        <a href="#">PORTFOLIO</a>        <ul class="noJS">            <li><a href="Denver-Engagement-Photographer.aspx" title=" Denver Engagement Photographer ">ENGAGEMENT PHOTOGRAPHY</a></li>            <li><a href="Denver-Fashion-Photographer.aspx" title=" Denver Fashion Photographer ">FASHION PHOTOGRAPHY</a></li>            <li><a href="Denver-Food-Photographer.aspx" title=" Denver Food Photographer ">FOOD PHOTOGRAPHY</a></li>            <li><a href="Denver-Wedding-Photographer.aspx" title=" Denver Wedding Photographer ">WEDDING PHOTOGRAPHY</a></li>            <li><a href="Denver-Portrait-Photographer.aspx" title=" Denver Portrait Photographer ">PORTRAIT PHOTOGRAPHY</a></li>            <li><a href="Denver-Senior-Portrait-Photographer.aspx" title=" Denver Senior Portrait Photographer ">SENIOR PORTRAITS</a></li>            <li><a href="Denver-Pet-Portrait-Photographer.aspx" title=" Denver Pet Portrait Photographer ">PET PHOTOGRAPHY</a></li>            <li><a href="Denver-Commercial-Photographer.aspx" title=" Denver Commercial Photographer ">COMMERCIAL PHOTOGRAPHY</a></li>		</ul>   </li>   <li><a href="BlogInstall/index.php" title="Blog">BLOG</a></li>   <li><a href="About.aspx" title="About Denver Photographer Sly Octopus Photography">ABOUT</a></li>   <li><a href="Contact.aspx" title="Contact Denver Photographer Sly Octopus Photography">CONTACT</a></li></ul>
-</div>
+<ul id="coolMenu">
+   <li><a href="Home.aspx" title="Home">HOME</a></li>
+   <li>
+        <a href="#">PORTFOLIO</a>
+        <ul class="noJS">
+            <li><a href="Denver-Engagement-Photographer.aspx" title=" Denver Engagement Photographer ">ENGAGEMENT PHOTOGRAPHY</a></li>
+            <li><a href="Denver-Fashion-Photographer.aspx" title=" Denver Fashion Photographer ">FASHION PHOTOGRAPHY</a></li>
+            <li><a href="Denver-Food-Photographer.aspx" title=" Denver Food Photographer ">FOOD PHOTOGRAPHY</a></li>
+            <li><a href="Denver-Wedding-Photographer.aspx" title=" Denver Wedding Photographer ">WEDDING PHOTOGRAPHY</a></li>
+            <li><a href="Denver-Portrait-Photographer.aspx" title=" Denver Portrait Photographer ">PORTRAIT PHOTOGRAPHY</a></li>
+            <li><a href="Denver-Senior-Portrait-Photographer.aspx" title=" Denver Senior Portrait Photographer ">SENIOR PORTRAITS</a></li>
+            <li><a href="Denver-Pet-Portrait-Photographer.aspx" title=" Denver Pet Portrait Photographer ">PET PHOTOGRAPHY</a></li>
+            <li><a href="Denver-Commercial-Photographer.aspx" title=" Denver Commercial Photographer ">COMMERCIAL PHOTOGRAPHY</a></li>
+		</ul>
+   </li>
+   <li><a href="BlogInstall/index.php" title="Blog">BLOG</a></li>
+   <li><a href="About.aspx" title="About Denver Photographer Sly Octopus Photography">ABOUT</a></li>
+   <li><a href="Contact.aspx" title="Contact Denver Photographer Sly Octopus Photography">CONTACT</a></li>
+</ul>
+</div>

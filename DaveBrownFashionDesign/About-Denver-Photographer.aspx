@@ -30,7 +30,7 @@
      </p>
         </div>
         <div style="margin:20px;">
-            <asp:Image runat="server" ImageUrl="~/Images/SelfPortraitForAboutMe.jpg" AlternateText="Denver Portrait Photographer" title="Denver Photographer Sly Octopus Photography" />
+            <asp:Image runat="server" ImageUrl="~/Photographer/SelfPortraitForAboutMe.jpg" AlternateText="Denver Portrait Photographer" title="Denver Photographer Sly Octopus Photography" />
         </div>
 </div>        
 </asp:Content>

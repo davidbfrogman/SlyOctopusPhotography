@@ -68,6 +68,7 @@
     <Content Include="Controls\LatestBlogPosts.ascx" />
     <Content Include="Controls\Menu.ascx" />
     <Content Include="Controls\RotatingImageBanner.ascx" />
+    <Content Include="Denver-Baby-Newborn-Photographer.aspx" />
     <Content Include="Denver-Senior-Portrait-Photographer.aspx" />
     <Content Include="Denver-Pet-Photographer.aspx" />
     <Content Include="Denver-Band-Music-Photographer.aspx" />
@@ -147,6 +148,13 @@
     </Compile>
     <Compile Include="Controls\RotatingImageBanner.ascx.designer.cs">
       <DependentUpon>RotatingImageBanner.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Denver-Baby-Newborn-Photographer.aspx.cs">
+      <DependentUpon>Denver-Baby-Newborn-Photographer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Denver-Baby-Newborn-Photographer.aspx.designer.cs">
+      <DependentUpon>Denver-Baby-Newborn-Photographer.aspx</DependentUpon>
     </Compile>
     <Compile Include="Denver-Senior-Portrait-Photographer.aspx.cs">
       <DependentUpon>Denver-Senior-Portrait-Photographer.aspx</DependentUpon>

@@ -21,7 +21,6 @@ namespace DaveBrownPhotography
                 photography
                 denver
                 engagement
-                davebrown
                 photo
                 photographers
                 photographer
@@ -32,64 +31,26 @@ namespace DaveBrownPhotography
                 pictures
                 boulder
                 broomfield
-                fashion
                 picture
-                locations
                 photographers
-                character
-                newcastle
-                nudes
                 phtography
-                browne
                 senior
-                david
-                ireland
-                karate
-                millom
-                dead
-                flower
-                fine
-                museum
-                downtown
-                tennyson
-                nature
-                science
-                photograpy
-                places
                 portrait
                 edgy
-                union
-                station
-                engadgement
-                engaement
                 littleton
-                spots
-                photography
-                photogrphers
-                center
-                performing
-                arts
-                color
-                strobe
-                longmont
-                shooting
-                photos
-                washington
-                photorapher
                 studios
-                metro
-                backdrops
-                studio
                 professional
-                around
-                station
-                rates
                 portraits
                 band
                 music
                 solo
                 artist
                 musician
+                baby
+                newborn
+                corprate
+                headshot
+                high school senior
                 ";
     }
 
@@ -122,14 +83,25 @@ namespace DaveBrownPhotography
                     "Denver Portrait Photographer",
                     "Denver Engagement Photographer",
                     "Denver Photographer",
-                    "Denver Fashion Photographer",
-                    "Fashion Photographer in Denver",
                     "Colorado Portrait Photographer",
                     "Portrait Photographer in Denver",
                     "Portrait Photography in Denver",
                     "Engagement Photography in Denver",
                     "Portrait Photographer Denver",
-                    "Portrait Photography Denver"
+                    "Newborn Photographer Denver",
+                    "Baby Photography Denver",
+                    "Headshot Photographer Denver",
+                    "Corprate Headshot Photographer Denver",
+                    "Band Photography Denver",
+                    "Musician Photography Denver",
+                    "Band Photographer Denver",
+                    "Senior Portriat Photography Denver",
+                    "Senior Portrait Photographer Denver",
+                    "High School Portrait Photographer Denver",
+                    "High School Portrait Photography Denver",
+                    "Food Photography Denver",
+                    "Food Photographer Denver",
+                    "Wedding Photographer Denver"
                 };
             }
         }

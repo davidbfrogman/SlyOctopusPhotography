@@ -18,7 +18,7 @@ namespace DaveBrownPhotography
 {
     public partial class CorprateHeadshot_Photography : PortfolioBasePage
     {
-        //adding for test
+        //adding for testing github
         public override string ImageDirectory { get{return "Portraits";}}
         public override HtmlGenericControl imageHolderControl { get { return this.ulImageHolder; } }
         public override HtmlGenericControl BlogHolder { get { return this.divBlogHolder; } }

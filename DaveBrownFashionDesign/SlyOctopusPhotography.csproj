@@ -66,7 +66,6 @@
     <Content Include="Controls\Javascript\ImageRotater2.js" />
     <Content Include="Controls\Javascript\NonObfusttaasded.js" />
     <Content Include="Controls\LatestBlogPosts.ascx" />
-    <Content Include="Controls\Menu.ascx" />
     <Content Include="Controls\RotatingImageBanner.ascx" />
     <Content Include="Denver-Baby-Newborn-Photographer.aspx" />
     <Content Include="Denver-Senior-Portrait-Photographer.aspx" />
@@ -96,9 +95,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="XML\AffiliateURL.xml" />
-    <Content Include="XML\MenuLevel1.xml" />
-    <Content Include="XML\MenuLevel2.xml" />
-    <Content Include="XML\Menus.xml" />
     <Content Include="XML\TopRefferers.xml" />
   </ItemGroup>
   <ItemGroup>
@@ -134,13 +130,6 @@
     </Compile>
     <Compile Include="Controls\LatestBlogPosts.ascx.designer.cs">
       <DependentUpon>LatestBlogPosts.ascx</DependentUpon>
-    </Compile>
-    <Compile Include="Controls\Menu.ascx.cs">
-      <DependentUpon>Menu.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Controls\Menu.ascx.designer.cs">
-      <DependentUpon>Menu.ascx</DependentUpon>
     </Compile>
     <Compile Include="Controls\RotatingImageBanner.ascx.cs">
       <DependentUpon>RotatingImageBanner.ascx</DependentUpon>

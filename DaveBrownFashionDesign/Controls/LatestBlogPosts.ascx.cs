@@ -26,7 +26,7 @@ namespace DaveBrownPhotography.Controls
                 {
 
                     string mainTemplate = "%Items%";
-                    string itemsTemplateFormat = "<div class=\"blogItem\" ><a href=\"%Link%\" rel=\"nofollow\" > %Title% </a><div>%Description%</div></div>";
+                    string itemsTemplateFormat = "<div class=\"blogItem\" ><h2><a href=\"%Link%\"> %Title% </a></h2><div>%Description%</div></div>";
 
                     RssHtmlMaker htmlMaker = new RssHtmlMaker();
                     htmlMaker.MaxItems = 5;
